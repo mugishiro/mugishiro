@@ -18,7 +18,7 @@ An anonymous Q&A service integrated with X (Twitter). Users can post questions, 
 [Website](https://quester-6xv7.onrender.com) · [GitHub](https://github.com/mugishiro/quester)
 
 ### **QMap** 
-A tool that visualizes LLM conversations as trees, allowing users to branch from any past message and organize research or thinking processes more effectively.
+A tool that visualizes LLM conversations as trees, allowing users to branch from any past message and organize research or thinking processes more effectively.  
 [Website](https://q-map-prod.vercel.app/) · [GitHub](https://github.com/mugishiro/q-map)
 
 ---
