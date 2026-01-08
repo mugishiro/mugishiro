@@ -17,8 +17,9 @@ A Chrome extension that visualizes browsing patterns. Records visit count and ti
 An anonymous Q&A service integrated with X (Twitter). Users can post questions, receive anonymous answers, and reply anonymously to others.  
 [Website](https://quester-6xv7.onrender.com) · [GitHub](https://github.com/mugishiro/quester)
 
-### **QMap** *(Under construction)*  
+### **QMap** 
 A tool that visualizes LLM conversations as trees, allowing users to branch from any past message and organize research or thinking processes more effectively.
+[Website](https://q-map-prod.vercel.app/) · [GitHub](https://github.com/mugishiro/q-map)
 
 ---
 
