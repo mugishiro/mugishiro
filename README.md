@@ -11,7 +11,7 @@ A fully serverless workflow that collects and summarizes news from around the wo
 
 ### **Browsing Log**  
 A Chrome extension that visualizes browsing patterns. Records visit count and time spent on each page, and generates graphs highlighting frequently visited sites and active time periods.  
-[Chrome Web Store](https://chromewebstore.google.com/detail/browsing-log/kpgmjellfokjjidhlcpmlpeiecpoicng) · [GitHub](https://github.com/mugishiro/browsing-log)
+[Chrome Web Store](https://chromewebstore.google.com/detail/browsing-log/kpgmjellfokjjidhlcpmlpeiecpoicng) · [GitHub](https://github.com/mugishiro/browselog)
 
 ### **Quester**  
 An anonymous Q&A service integrated with X (Twitter). Users can post questions, receive anonymous answers, and reply anonymously to others.  
@@ -19,7 +19,7 @@ An anonymous Q&A service integrated with X (Twitter). Users can post questions, 
 
 ### **QMap** 
 A tool that visualizes LLM conversations as trees, allowing users to branch from any past message and organize research or thinking processes more effectively.  
-[Website](https://q-map-prod.vercel.app/) · [GitHub](https://github.com/mugishiro/q-map)
+[Website](https://q-map-prod.vercel.app/) · [GitHub](https://github.com/mugishiro/q-map)  
 
 ---
 
