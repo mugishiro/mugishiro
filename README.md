@@ -44,5 +44,6 @@ A tool that visualizes LLM conversations as trees, allowing users to branch from
 ---
 
 ## 🌱 Currently Learning
-- System design  
+- System design
+- Rust
 - AI agent architecture, LLM orchestration
